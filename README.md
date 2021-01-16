@@ -30,8 +30,8 @@ Alibaba Cloud
 #### Structure
 Foreground + Server + Background  
 - Foreground (based on next.js mainly) receives data from server and expresses to normal blog viewers
-- Server (based on egg.js mainly) interact with the database
-- Background (based on React mainly) receive and send data to the server
+- Server (based on egg.js mainly) interacts with the database
+- Background (based on React mainly) receives and send data to the server
 
 #### Intro Video
 [![](http://img.youtube.com/vi/pRHFwqb8AmQ/0.jpg)](http://www.youtube.com/watch?v=pRHFwqb8AmQ "")
