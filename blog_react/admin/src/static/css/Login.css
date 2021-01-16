@@ -1,0 +1,17 @@
+
+.login-div{
+    margin: 150px auto;
+    width: 400px;
+}
+
+.login-card{
+    background-color: #dff0db;
+}
+
+.login-button{
+    background-color: #0820f8;
+}
+
+body{
+    background-color: #ffffff;
+}
