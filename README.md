@@ -28,8 +28,8 @@ Alibaba Cloud
 >[Official Web](https://www.alibabacloud.com/)
 
 #### Structure
-Frontground + Server + Background  
-- Frontground (based on next.js mainly) receives data from server and expresses to normal blog viewers
+Foreground + Server + Background  
+- Foreground (based on next.js mainly) receives data from server and expresses to normal blog viewers
 - Server (based on egg.js mainly) interact with the database
 - Background (based on React mainly) receive and send data to the server
 
@@ -45,7 +45,8 @@ Frontground + Server + Background
 - Use new markdown library (current one cannot real all tags)
 - Find new Domain
 
-#### View Current Blog 
+#### View Current Blog foreground homepage
 http://8.210.132.36:3000/
+
 
 
