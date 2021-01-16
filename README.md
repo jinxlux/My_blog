@@ -46,7 +46,7 @@ Foreground + Server + Background
 - Manage DNS of the domain
 
 #### View Current Blog foreground homepage
-http://xudongspace.ml/  (The domain breaks sometime, so please use the link below if you cannot reach the site)
+http://xudongspace.ml/  (The domain breaks sometime, so please use the link below if you cannot reach the site)   
 http://8.210.132.36:3000/
 
 
