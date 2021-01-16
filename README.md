@@ -39,5 +39,9 @@ Frontground + Server + Background
 - Solve Date bug in frontground
 - Add comments function
 - Use new markdown library (current one cannot real all tags)
+- Find new Domain
+
+#### View Current Blog 
+http://8.210.132.36:3000/
 
 
