@@ -23,11 +23,15 @@ Ant Design：
 Mysql
 >[Official Web](https://www.mysql.com/)  
 
+#### Cloud Service
+Alibaba Cloud
+>[Official Web](https://www.alibabacloud.com/)
+
 #### Structure
-Frontground + Server + Background  
-- Frontground (based on next.js mainly) receives data from server and expresses to normal blog viewers
-- Server (based on egg.js mainly) interact with the database
-- Background (based on React mainly) receive and send data to the server
+Foreground + Server + Background  
+- Foreground (based on next.js mainly) receives data from server and expresses to normal blog viewers
+- Server (based on egg.js mainly) interacts with the database
+- Background (based on React mainly) receives and send data to the server
 
 #### Intro Video
 [![](http://img.youtube.com/vi/pRHFwqb8AmQ/0.jpg)](http://www.youtube.com/watch?v=pRHFwqb8AmQ "")
@@ -39,5 +43,9 @@ Frontground + Server + Background
 - Solve Date bug in frontground
 - Add comments function
 - Use new markdown library (current one cannot real all tags)
+- Redirect 80 port to 3000 port
+
+#### View Current Blog foreground homepage
+http://www.xudongspace.ml:3000/
 
 
