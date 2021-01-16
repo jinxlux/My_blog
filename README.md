@@ -43,7 +43,7 @@ Foreground + Server + Background
 - Solve Date bug in frontground
 - Add comments function
 - Use new markdown library (current one cannot real all tags)
-- Find new domain & modify related codes in the background
+- Redirect 80 port to 3000 port
 
 #### View Current Blog foreground homepage
 http://www.xudongspace.ml:3000/
