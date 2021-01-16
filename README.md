@@ -46,6 +46,6 @@ Foreground + Server + Background
 - Find new domain & modify related codes in the background
 
 #### View Current Blog foreground homepage
-http://8.210.132.36:3000/
+http://www.xudongspace.ml:3000/
 
 
