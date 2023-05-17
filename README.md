@@ -36,8 +36,6 @@ Foreground + Server + Background
 #### Intro Video
 [![](http://img.youtube.com/vi/pRHFwqb8AmQ/0.jpg)](http://www.youtube.com/watch?v=pRHFwqb8AmQ "")
 
-#### Tutorial of blog creation
-[Bilibili-技术胖](https://www.bilibili.com/video/av68325396?zw)
 
 #### To Do
 - Solve Date bug in frontground
@@ -45,7 +43,5 @@ Foreground + Server + Background
 - Use new markdown library (current one cannot real all tags)
 - Redirect 80 port to 3000 port
 
-#### View Current Blog foreground homepage
-http://www.xudongspace.ml:3000/
 
 
